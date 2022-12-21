@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rodriguez.ale.david2014@gmail.com**
 
-- 🌱 I am currently learning **Javascript, Git and Angular**
+- 🌱 I am currently learning **Javascript, Git and React**
 
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
