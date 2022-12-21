@@ -20,7 +20,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="html5" alt="html" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="css3" alt="css" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="javascript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" tittle="angularjs" alt="angular" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" tittle="reactjs" alt="react" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" tittle="visual-studio-code" alt="vscode" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" tittle="git" width="40" height="40"/>  
     </div>
