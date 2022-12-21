@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me:
 
-- 📖 I usually read manga and watch anime and movies 
+- 📖 I usually read manga, watch anime and movies 
 
 - 📫 How to reach me **rodriguez.ale.david2014@gmail.com**
 
